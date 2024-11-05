@@ -54,7 +54,7 @@ The goal of this project is to identify key areas for improvement in Twentytems'
 
 # Projekt: Analýza a zlepšení výkonnosti online prodeje Twentytems  
 
-Tento pracovní postup popisuje proces čištění a přípravy dat, a následné analýzy a vizualizace dat, která by měla vést ke zlepšení výkonnosti online obchodu Twentytems. V projektu pracujeme především s SQL, Pythonem a Power BI.
+Tento projekt popisuje proces čištění a přípravy dat, a následné analýzy a vizualizace dat, která by měla vést ke zlepšení výkonnosti online obchodu Twentytems. V projektu pracujeme především s SQL, Pythonem a Power BI.
 
 ## Přehled:
 
