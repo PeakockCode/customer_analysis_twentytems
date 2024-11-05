@@ -20,14 +20,14 @@ This workflow outlines the process of analyzing, visualizing, and improving the 
     Path: assets/source_data  
     
 **2. Data Exploration with Excel:**  
-  - Analyze the dataset to understand its structure and quality.  
+  - Analyze the dataset (from all sources) to understand its structure and quality.  
 
 **3. SQL Data Cleaning and Preparation:**  
-  - Import the CSV file into Microsoft SQL Server for cleaning, standardization and preparation.  
+  - Import the CSV files into Microsoft SQL Server for cleaning, standardization and preparation.  
   - Create selects or views for simplified access to key columns and metrics.  
-  - SQL queries for data cleaning and preparation can be found in:  
+  - SQL queries for data cleaning, standardization and preparation can be found in:  
     Path: assets/sql/queries  
-  - Export the final cleaned data.  
+  - Export the final cleaned data as CSV.  
   - Check the cleaned data files:  
     Path: assets/sql/final_csv_exported_views  
 
