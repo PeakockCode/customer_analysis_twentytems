@@ -1,3 +1,5 @@
+![header image](assets/images/company_logo/1.png)
+
 # Project: Analysis and Improvement of Twentytems' Online Sales Performance
 
 This workflow outlines the process of analyzing, visualizing, and improving the performance of the online shop Twentytems using SQL and Power BI. By leveraging customer journey data, feedback scores, and engagement metrics, we aim to provide actionable insights that enhance conversion rates and customer engagement.
