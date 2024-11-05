@@ -23,7 +23,7 @@ This workflow outlines the process of analyzing, visualizing, and improving the 
   - Analyze the dataset to understand its structure and quality.  
 
 **3. SQL Data Cleaning and Preparation:**  
-  - Import the updated CSV into Microsoft SQL Server for cleaning, standardization and preparation.  
+  - Import the CSV file into Microsoft SQL Server for cleaning, standardization and preparation.  
   - Create selects or views for simplified access to key columns and metrics.  
   - SQL queries for data cleaning and preparation can be found in:  
     Path: assets/sql/queries  
