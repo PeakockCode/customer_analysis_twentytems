@@ -15,7 +15,7 @@ This workflow outlines the process of analyzing, visualizing, and improving the 
 ### Project Steps:  
 
 **1. Data Acquisition:**  
-  - Gather data from various sources including customer reviews and engagement metrics.  
+  - Gathered data from various sources including customer reviews and engagement metrics.  
     Check the source data:  
     Path: assets/source_data  
     
