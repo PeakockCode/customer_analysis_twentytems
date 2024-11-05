@@ -69,7 +69,7 @@ Tento projekt popisuje proces čištění a přípravy dat, a následnou analýz
 **1. Sběr dat:**  
 
 - Data jsou sesbírána z různých zdrojů na webu online shopu, včetně zákaznických recenzí, nebo marketingových nástrojů jako je google analytics (engagement rate).  
-Zdrojová data najdete ve složce source_data: assets/source_data  
+- Zdrojová data najdete ve složce source_data: assets/source_data  
 
 **2. Průzkum dat v Excelu:**  
 
