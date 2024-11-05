@@ -8,15 +8,15 @@ This workflow outlines the process of data cleaning and preparation, followed by
 
 ### Data Source:
 
-- Customer journey data (website visits and purchase information)  
-- Customer Reviews Data: Feedback collected from various platforms, essential for sentiment analysis.   
-- Engagement data (Metrics related to customer interactions with marketing content, including clicks and likes)  
+- Customer Journey Data: Website visits and purchase information collected by the online shop.  
+- Customer Reviews Data: Feedback collected from various platforms by the online shop.    
+- Engagement data: Metrics related to customer interactions with marketing content, including clicks and likes collected by the online shop.  
 
 ### Project Steps:  
 
 **1. Data Acquisition:**  
   - Data is collected from various sources on the online shop's website, including customer reviews or marketing tools such as Google Analytics (engagement rate). 
-    Source data can be found in the source_data folder.
+  - Source data can be found in the source_data folder:
       - File Path: assets/source_data  
     
 **2. Data Exploration with Excel:**  
@@ -58,9 +58,9 @@ Tento pracovní postup popisuje proces čištění a přípravy dat, a následn�
 
 ### Zdroj dat:
 
-- Data o zákaznické cestě (návštěvy webových stránek a informace o nákupech)
-- Data o zákaznických recenzích
-- Data o zapojení (Metriky se týkají interakcí zákazníků s marketingovým obsahem, včetně kliknutí a lajků)
+- Data o zákaznické cestě: návštěvy webových stránek a informace o nákupech shromážděné online obchodem.
+- Data o zákaznických recenzích: zpětná vazba shromážděná z různých platforem online obchodem.
+- Data o zapojení: metriky týkající se interakcí zákazníků s marketingovým obsahem, a to včetně kliknutí a lajků, shromážděné také online obchodem.
 
 ### Postup projektu:
 
