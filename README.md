@@ -2,7 +2,7 @@
 
 # Project: Analysis and Improvement of Twentytems' Online Sales Performance
 
-This workflow outlines the process of data cleaning and preparation, followed by analysis and visualization, aimed at improving the performance of the online shop Twentytems. The project primarily involves working with SQL, Python, and Power BI.
+This project outlines the process of data cleaning and preparation, followed by analysis and visualization, with the aim of providing the marketing department with sufficient insights to improve the performance of the Twentytems online store. We primarily use SQL, Python, and Power BI throughout this project.  
 
 ## Overview:
 
